@@ -1,0 +1,29 @@
+19 settembre 2023
+
+IDE
+Un IDE (Integrated Development Environment, ovvero ambiente di sviluppo integrato) è una suite software che racchiude in un'unica interfaccia utente grafica i principali strumenti di sviluppo per codificare software.
+
+Commit di GIT
+Il comando git commit è una delle funzioni principali di Git. L'uso precedente del comando git add è necessario per selezionare le modifiche che verranno inserite per il commit successivo. Quindi git commit viene utilizzato per creare un'istantanea delle modifiche effettuate nella cronologia di un progetto Git
+
+Branch di GIT
+Un branch in Git è un ambiente isolato per aggiungere, modificare o eliminare una parte del codice senza interferire con il codice principale del progetto. Il branching consiste nel creare un'altra linea di sviluppo nel progetto senza influire sul ramo principale o sul repository.
+
+26 settembre 2023
+
+GIT clone
+clona l’account di git hub su codespace
+
+Git remoto
+fa vedere se ci sono repository
+1. fetch: scarica dal repository remoto
+2. pull: fa prima un fetch e poi mette insieme i dati
+3. push: manda le modifiche locali sul repository remoto
+
+Git status
+fa vedere lo stato di GIT
+
+git commit
+crea brench
+
+
